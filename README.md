@@ -90,6 +90,42 @@ Le skills distinguono sempre tra il regime contabile applicabile:
 
 ## Disclaimer
 
-Le skills contenute in questo repository sono **strumenti di supporto professionale** a uso del consulente o del responsabile amministrativo. Non costituiscono parere professionale, consulenza legale o fiscale, e non sostituiscono la valutazione caso per caso da parte di un dottore commercialista abilitato o di un avvocato. L'applicazione delle normative richiede sempre la verifica delle circostanze specifiche, degli aggiornamenti legislativi successivi alla data di pubblicazione delle skills e della prassi amministrativa dell'Agenzia delle Entrate.
+Le skills contenute in questo repository sono esclusivamente strumenti didattici e di aggiornamento professionale a uso del consulente o del responsabile amministrativo già in possesso di qualifiche professionali riconosciute.
 
-L'autore del repository non si assume responsabilità per decisioni prese sulla base esclusiva del contenuto delle skills.
+Esse non costituiscono parere professionale vincolante, consulenza legale o fiscale, e non sostituiscono in alcun modo la valutazione caso per caso da parte di un dottore commercialista abilitato, di un avvocato, di un revisore legale, o di altro professionista competente e responsabile della pratica specifica.
+
+Limitazioni esplicite di responsabilità:
+
+Le skills non possono essere utilizzate a fini di lucro, per prestazioni a terzi in conto proprio, o come base di parcellazione professionale senza ulteriore elaborazione, studio approfondito, e responsabilità diretta del professionista abilitato;
+Non sono ammesse implementazioni automatizzate, deleghe totali a sistemi software non controllati da un professionista qualificato, o sostituzioni della valutazione professionale discrezionale;
+L'applicazione delle normative richiede sempre la verifica caso per caso delle circostanze specifiche, degli aggiornamenti legislativi successivi alla data di pubblicazione, della prassi amministrativa e delle interpretazioni dell'Agenzia delle Entrate, delle sentenze della Cassazione, e delle linee guida dell'Ordine professionale;
+Le skills possono contenere semplificazioni, generalizzazioni, o errori involontari che non riflettono le eccezioni di legge, i regimi speciali, o le particolari combinazioni fattispecie che alterano l'applicazione della norma.
+
+Casi d'uso legittimi (esclusivamente):
+
+Studio personale e aggiornamento individuale per professionisti già iscritti agli ordini professionali;
+Preparazione di materiali di ricerca preliminari, da validare e approfondire con fonti ufficiali (Agenzia delle Entrate, normativa primaria, sentenze, orientamenti degli ordini);
+Brainstorming interno di uno studio professionale, con successiva verifica gerarchica da parte del professionista incaricato;
+Formazione interna di staff tecnico non abilitato, sotto la supervisione diretta del professionista responsabile;
+Base di discussione in riunioni collegiali tra professionisti qualificati che mantengono piena responsabilità della conclusione finale.
+
+Casi d'uso esclusi (non consentiti):
+
+Applicazione diretta a pratiche professionali senza verifica e sottoscrizione personale del professionista responsabile;
+Utilizzo per prestazioni a terzi dietro compenso, senza rielaborazione e responsabilità diretta del consulente;
+Automazione totale di processi decisionali o interpretativi della normativa;
+Sostituzione della consulenza professionale vera e propria;
+Utilizzo da parte di soggetti non abilitati (non iscritti agli ordini professionali) come se rappresentasse consulenza;
+Integrazione in software commerciali o prodotti SaaS senza autorizzazione esplicita e adattamento normativo;
+Applicazione a giurisdizioni diverse dall'Italia, senza adattamento alle norme locali.
+
+Declinazione finale della responsabilità:
+L'autore del repository non si assume alcuna responsabilità per:
+
+Decisioni, azioni, o omissioni prese sulla base esclusiva o prevalente del contenuto delle skills;
+Danni diretti, indiretti, consequenziali, o di qualsiasi natura derivanti dall'utilizzo, dal mancato utilizzo, o dall'interpretazione errata del materiale;
+Incorrettezze, ritardi, omissioni, o violazioni normative conseguenti all'affidamento esclusivo sulle skills;
+Sanzioni amministrative, tributarie, penali, o civili derivanti dall'applicazione non verificata di quanto contenuto nelle skills;
+Perdita di opportunità, danni reputazionali, o altri pregiudizi economici derivanti dall'uso del repository.
+
+Ogni professionista rimane integralmente responsabile delle proprie conclusioni, della propria firma, e della qualità della propria prestazione secondo il codice deontologico del proprio ordine professionale.
