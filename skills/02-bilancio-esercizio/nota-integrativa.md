@@ -1,253 +1,209 @@
-﻿---
-name: Nota Integrativa
-description: Elenco strutturato delle informazioni obbligatorie da includere nella Nota Integrativa ex art. 2427 c.c., con indicazione dell'OIC applicabile per ogni voce e distinzione tra bilancio ordinario, abbreviato e micro-imprese.
-area: Bilancio d'Esercizio
+---
+name: "Nota Integrativa"
+description: "Elenco strutturato delle informazioni obbligatorie della Nota Integrativa ex artt. 2427 e 2427-bis c.c., con OIC di riferimento per ciascuna voce e distinzione tra bilancio ordinario, abbreviato (art. 2435-bis) e micro-imprese (art. 2435-ter)."
+area: "Bilancio d'Esercizio"
 fonti:
-  - "Codice Civile art. 2427 (agg. novembre 2024)"
-  - "OIC 11 — Postulati del bilancio (marzo 2024)"
-  - "OIC 15 — Crediti (marzo 2024)"
-  - "OIC 16 — Immobilizzazioni materiali (marzo 2024)"
-  - "OIC 19 — Debiti (marzo 2024)"
-  - "OIC 24 — Immobilizzazioni immateriali (maggio 2022)"
-  - "OIC 28 — Patrimonio netto (maggio 2022)"
-  - "OIC 31 — Fondi rischi/oneri e TFR (marzo 2024)"
-  - "OIC 32 — Strumenti finanziari derivati (gennaio 2016)"
-aggiornamento: "2024-03"
+  - "Codice Civile artt. 2423, 2427, 2427-bis (agg. novembre 2024)"
+  - "Codice Civile artt. 2435-bis, c. 5 e 2435-ter, c. 2 — Nota integrativa abbreviata ed esonero micro-imprese (agg. D.Lgs. 125/2024)"
+  - "D.Lgs. 18 agosto 2015, n. 139 — Recepimento Direttiva 2013/34/UE"
+  - "OIC 11 — Finalità e postulati del bilancio (marzo 2024)"
+  - "OIC 12 — Composizione e schemi del bilancio d'esercizio (maggio 2022)"
+  - "OIC 15 — Crediti (marzo 2024); OIC 19 — Debiti (marzo 2024)"
+  - "OIC 16 — Immobilizzazioni materiali (marzo 2024); OIC 24 — Immobilizzazioni immateriali (maggio 2022)"
+  - "OIC 25 — Imposte sul reddito (marzo 2024); OIC 28 — Patrimonio netto (maggio 2022)"
+  - "OIC 29 — Fatti intervenuti dopo la chiusura (gennaio 2019); OIC 31 — Fondi rischi/oneri e TFR (marzo 2024)"
+  - "OIC 32 — Strumenti finanziari derivati (dicembre 2016, emendamenti maggio 2022)"
+aggiornamento: "2026-10"
+conflitti_noti: "Per gli IAS-adopter l'informativa è disciplinata da IAS 1 e dagli specifici IFRS (IFRS 7 per gli strumenti finanziari, IAS 24 per le parti correlate, IFRS 13 per il fair value): l'art. 2427 c.c. si applica ai soli bilanci redatti secondo il Codice Civile e gli OIC."
 ---
 
-# Nota Integrativa — art. 2427 c.c.
+# Nota Integrativa — artt. 2427 e 2427-bis c.c.
 
-La Nota Integrativa (NI) e' parte integrante del bilancio d'esercizio (art. 2423, co. 1 c.c.) e ha funzione **illustrativa e integrativa** delle voci dello Stato Patrimoniale e del Conto Economico. Non e' un documento separato ma forma un tutto uno con SP e CE.
+La Nota Integrativa (NI) è **parte integrante del bilancio d'esercizio** (art. 2423, c. 1 c.c.) e ha funzione **illustrativa e integrativa** delle voci dello Stato Patrimoniale e del Conto Economico. L'ordine di presentazione segue, di norma, l'ordine delle voci degli schemi (art. 2427, c. 2; OIC 12).
 
 > **Regime semplificato:**
-> - **Bilancio abbreviato** (art. 2435-bis): NI ridotta — alcune informazioni non sono obbligatorie (indicate di seguito).
-> - **Micro-imprese** (art. 2435-ter): NI **non obbligatoria** — le informazioni minimali di legge si limitano a quelle specificamente richieste dall'art. 2435-ter.
+> - **Bilancio abbreviato** (art. 2435-bis, c. 5): NI ridotta alle sole informazioni elencate nella tabella finale, con le limitazioni ivi indicate.
+> - **Micro-imprese** (art. 2435-ter, c. 2): **esonero** dalla NI se in calce allo Stato Patrimoniale risultano le informazioni dell'art. 2427, c. 1, **nn. 9 e 16** (e, per l'esonero dalla relazione sulla gestione, dell'art. 2428, nn. 3 e 4).
+>
+> Dettaglio di soglie ed esoneri in [`bilancio-abbreviato-micro.md`](bilancio-abbreviato-micro.md).
 
 ---
 
-## Struttura della Nota Integrativa
+## Contenuto dell'art. 2427, c. 1 c.c. — informazioni principali
 
-### n. 1 — Criteri di valutazione adottati
+### n. 1 — Criteri di valutazione
 
-**Contenuto obbligatorio:**
-- Criteri di valutazione applicati per ogni voce significativa di SP e CE.
-- Eventuali deroghe ai criteri generali con motivazione e impatto quantitativo.
-- Indicazione dei principi contabili OIC (o IAS/IFRS) applicati.
+- Criteri applicati nella valutazione delle voci del bilancio, nelle rettifiche di valore e nella conversione dei valori non espressi in euro.
+- Eventuali **deroghe** (art. 2423, c. 5) con motivazione e influenza su situazione patrimoniale, finanziaria ed economica.
+- Eventuale applicazione dell'**irrilevanza** (art. 2423, c. 4): illustrazione delle modalità con cui è stata data attuazione.
 
-**Da includere tipicamente:**
-- Criteri di ammortamento (metodo, aliquote per categoria) — OIC 16, OIC 24
-- Criteri di valutazione delle rimanenze (FIFO, CMP, LIFO) — OIC 13
-- Criteri di valutazione dei crediti (valore di presumibile realizzo, costo ammortizzato) — OIC 15
-- Criteri di iscrizione dei fondi rischi e oneri — OIC 31
-- Criterio di valutazione delle partecipazioni (costo, patrimonio netto) — OIC 21
-- Criteri per il riconoscimento dei ricavi — OIC 34
-- Trattamento delle imposte differite e anticipate — OIC 25
-
-**OIC di riferimento:** OIC 11 (postulati), ciascun OIC specifico per voce.
-
----
+**Da includere tipicamente:** ammortamenti (OIC 16, OIC 24), rimanenze (OIC 13), crediti e costo ammortizzato (OIC 15), fondi (OIC 31), partecipazioni (OIC 21), ricavi (OIC 34), imposte differite (OIC 25), conversione in valuta (OIC 26).
 
 ### n. 2 — Movimenti delle immobilizzazioni
 
-**Tabella di movimentazione obbligatoria** per ciascuna categoria di immobilizzazioni (immateriali, materiali, finanziarie):
+Per ciascuna voce: costo, precedenti rivalutazioni, ammortamenti e svalutazioni; acquisizioni, spostamenti, alienazioni; rivalutazioni, ammortamenti e svalutazioni dell'esercizio; totale finale.
 
-| Categoria | Saldo iniziale | Acquisti/Incrementi | Alienazioni/Dismissioni | Rivalutazioni | Svalutazioni | Ammortamenti | Saldo finale |
-|---|---|---|---|---|---|---|---|
-| Costi di sviluppo | | | | | | | |
-| Avviamento | | | | | | | |
-| Terreni e fabbricati | | | | | | | |
-| Impianti e macchinario | | | | | | | |
-| ... | | | | | | | |
+| Categoria | Costo storico iniziale | Fondo amm.to/svalutazioni iniziale | Incrementi | Decrementi | Rivalutazioni | Ammortamenti | Svalutazioni | Valore di bilancio finale |
+|---|---|---|---|---|---|---|---|---|
+| Costi di sviluppo | | | | | | | | |
+| Avviamento | | | | | | | | |
+| Terreni e fabbricati | | | | | | | | |
+| Impianti e macchinario | | | | | | | | |
 
-**Note operative:**
-- I saldi devono corrispondere alle voci dello SP.
-- Gli ammortamenti cumulati devono essere riconciliati con quelli contabilizzati in CE (voce B)10).
-- Le svalutazioni per perdita durevole (OIC 9) vanno indicate separatamente dagli ammortamenti.
+**Note operative:** i saldi devono corrispondere allo SP; gli ammortamenti alla voce B.10 del CE; le svalutazioni per perdite durevoli (OIC 9) vanno indicate separatamente.
 
-**OIC di riferimento:** OIC 16 (materiali), OIC 24 (immateriali), OIC 21 (partecipazioni immobilizzate).
+### n. 3 — Costi di impianto e di ampliamento e costi di sviluppo
 
-**Bilancio abbreviato:** La tabella di movimentazione e' comunque obbligatoria (art. 2435-bis, co. 2).
+Composizione delle voci, ragioni dell'iscrizione e criteri di ammortamento (OIC 24). Ricordare il **vincolo di distribuzione** degli utili finché l'ammortamento non è completato, salvo riserve disponibili sufficienti (art. 2426, c. 1, n. 5).
 
----
+### n. 3-bis — Riduzioni di valore delle immobilizzazioni
 
-### n. 3 — Composizione delle voci "costi di impianto e di ampliamento" e "costi di sviluppo"
+Misura e motivazioni delle riduzioni di valore applicate alle immobilizzazioni materiali e immateriali, con evidenza della loro incidenza sui risultati (OIC 9).
 
-Descrizione analitica dei costi capitalizzati, motivazione della capitalizzazione, vita utile stimata e piano di ammortamento residuo.
+### n. 4 — Variazioni delle altre voci dell'attivo e del passivo
 
-**OIC 24:** Indicare il motivo per cui questi costi contribuiranno positivamente ai risultati futuri. Indicare anche l'esistenza del vincolo di distribuzione utili finche' non completamente ammortizzati.
+Variazioni intervenute nella consistenza delle altre voci; per i **fondi** e il **TFR**: formazione e utilizzazioni (OIC 31).
 
----
+### n. 5 — Partecipazioni in imprese controllate e collegate
 
-### n. 4 — Variazioni intervenute nella consistenza delle altre voci dell'attivo e del passivo
+Per ciascuna: denominazione, sede (o Stato estero), capitale, patrimonio netto, utile o perdita dell'ultimo esercizio, quota posseduta, valore di bilancio o credito corrispondente (OIC 21). Se il valore di carico supera la quota di patrimonio netto, motivare l'assenza di perdita durevole.
 
-Per le voci non coperte dalla tabella di movimentazione delle immobilizzazioni: variazioni significative in rimanenze, crediti, fondi rischi, debiti.
+### n. 6 — Crediti e debiti oltre 5 anni; debiti con garanzie reali
 
----
+- Ammontare dei **crediti e dei debiti di durata residua superiore a cinque anni**;
+- **debiti assistiti da garanzie reali** su beni sociali, con indicazione della natura delle garanzie;
+- **ripartizione per aree geografiche**.
 
-### n. 5 — Elenco delle partecipazioni (controllate e collegate)
+### n. 6-bis, 6-ter — Cambi e operazioni con obbligo di retrocessione
 
-Per ogni partecipazione in imprese controllate e collegate:
-- Denominazione e sede
-- Capitale sociale
-- Importo del patrimonio netto dell'ultimo esercizio approvato
-- Quota posseduta (%)
-- Valore contabile iscritto in bilancio
-- Utile o perdita dell'ultimo esercizio
+Effetti significativi delle variazioni dei cambi successive alla chiusura (6-bis, OIC 26); crediti e debiti relativi a operazioni con obbligo di retrocessione a termine (6-ter).
 
-**OIC 21:** Se la partecipazione e' valutata al costo e il valore di patrimonio netto e' inferiore, occorre indicare se si tratta di perdita durevole e come e' stata trattata.
+### n. 7 e 7-bis — Ratei e risconti, altri fondi, voci di patrimonio netto
 
----
-
-### n. 6 — Composizione dei debiti con scadenza entro/oltre 5 anni e debiti assistiti da garanzie
-
-**Contenuto:**
-- Per ogni voce di debito: importo con scadenza entro l'anno, entro 5 anni, oltre 5 anni.
-- Debiti assistiti da garanzie reali (ipoteche, pegni, privilegi): indicazione del bene gravato e del valore del debito garantito.
-
-**OIC 19:** Obbligatorio per tutti i soggetti che redigono la NI completa.
-
-**Bilancio abbreviato:** Informazione ridotta — non richiesta la scadenza oltre 5 anni.
-
----
-
-### n. 7 — Composizione delle voci "ratei e risconti" attivi e passivi
-
-Se di importo rilevante, indicazione della natura dei ratei e risconti e dei criteri di calcolo adottati.
-
-**OIC 18:** Indicare la natura delle partite pluriennali significative.
-
----
+- **n. 7:** composizione di "ratei e risconti", "altri fondi" del passivo e "altre riserve", se di ammontare apprezzabile (OIC 18, OIC 31, OIC 28).
+- **n. 7-bis:** voci di **patrimonio netto** distinte per **origine, possibilità di utilizzazione e distribuibilità**, e loro avvenuta utilizzazione nei tre esercizi precedenti (OIC 28).
 
 ### n. 8 — Oneri finanziari capitalizzati
 
-Importo degli oneri finanziari imputati nell'esercizio al costo delle immobilizzazioni (se la societa' si avvale della facolta' di capitalizzazione ex OIC 16 e OIC 24).
+Ammontare degli oneri finanziari imputati nell'esercizio ai valori dell'attivo, distinti per voce (OIC 16, OIC 24, OIC 13).
 
----
+### n. 9 — Impegni, garanzie e passività potenziali non risultanti dallo SP
 
-### n. 9 — Impegni non risultanti dallo Stato Patrimoniale
+Importo complessivo, con indicazione della natura delle garanzie reali prestate; separata evidenza degli impegni in materia di trattamento di quiescenza e degli impegni verso **controllate, collegate, controllanti e sorelle**. (Dal D.Lgs. 139/2015 i "conti d'ordine" in calce allo SP sono stati eliminati e l'informativa è confluita qui.)
 
-**Categorie tipiche:**
-- Impegni per acquisti futuri di beni e servizi (contratti esecutivi in corso)
-- Garanzie rilasciate a favore di terzi (fideiussioni, avalli)
-- Impegni per leasing operativo non scaduti (con indicazione dei canoni futuri totali)
-- Impegni verso fondi pensione o consorzi
+### n. 10 — Ripartizione dei ricavi
 
-**Nota:** Le garanzie prestate a favore di controllate e collegate devono essere indicate separatamente.
+Ripartizione dei ricavi delle vendite e delle prestazioni per **categorie di attività** e per **aree geografiche**, se significativa.
 
----
+### n. 11 e 12 — Proventi da partecipazioni e oneri finanziari
 
-### n. 11-bis — Derivati — OIC 32
+- **n. 11:** proventi da partecipazioni (voce C.15) diversi dai dividendi;
+- **n. 12:** suddivisione degli interessi e altri oneri finanziari (voce C.17) relativi a prestiti obbligazionari, debiti verso banche e altri.
 
-**Obbligatorio per tutte le societa' che detengono strumenti finanziari derivati** (salvo micro-imprese esentate ex art. 2435-ter).
+### n. 13 — Elementi di ricavo o di costo eccezionali
 
-**Informazioni richieste:**
-- Natura e finalita' di ciascun derivato (speculazione vs. copertura)
-- Valore nozionale
-- Fair value alla data di bilancio (positivo o negativo)
-- Ipotesi e metodi utilizzati per il calcolo del fair value
-- Variazioni di fair value rilevate a CE o a PN (riserva di copertura — voce VII PN)
-- Rischi relativi: rischio di credito (controparte), rischio di liquidita', rischio di prezzo
+Importo e natura dei singoli elementi di ricavo o di costo di **entità o incidenza eccezionali** (dopo l'eliminazione dell'area straordinaria del CE, D.Lgs. 139/2015).
 
-**OIC 32:** Distinguere tra derivati di copertura (hedge accounting) e derivati non di copertura. Per i derivati di copertura specificare: il tipo di copertura (fair value hedge, cash flow hedge), l'elemento coperto e la strategia di copertura.
+### n. 14 — Imposte differite e anticipate
 
-**Bilancio abbreviato:** Le informazioni sui derivati sono comunque obbligatorie per i soggetti che li detengono.
+Prospetto contenente (OIC 25):
 
----
+- a) descrizione delle **differenze temporanee** che hanno comportato la rilevazione di imposte differite e anticipate, con aliquote applicate e variazioni rispetto all'esercizio precedente, importi accreditati o addebitati a CE o a PN, voci escluse dal computo e relative motivazioni;
+- b) ammontare delle imposte anticipate contabilizzate sulle **perdite fiscali** dell'esercizio o di esercizi precedenti e motivazioni dell'iscrizione; ammontare non ancora contabilizzato e motivazioni.
 
-### n. 11-ter — Informazioni sul fair value degli strumenti finanziari
+### n. 15 — Numero medio dei dipendenti
 
-Per gli strumenti finanziari valutati al fair value (oltre ai derivati OIC 32):
-- Fair value complessivo suddiviso per categoria
-- Metodi e ipotesi utilizzati per la determinazione del fair value
-- Gerarchia del fair value: Livello 1 (prezzi quotati), Livello 2 (input osservabili), Livello 3 (input non osservabili)
+Numero medio dei dipendenti **ripartito per categoria** (dirigenti, quadri, impiegati, operai, altri).
 
----
+### n. 16 e 16-bis — Compensi agli organi e al revisore
 
-### n. 13 — Imposte differite e anticipate
+- **n. 16:** ammontare dei **compensi, anticipazioni e crediti** concessi ad **amministratori e sindaci**, cumulativamente per ciascuna categoria, e impegni assunti per loro conto per garanzie di qualsiasi tipo.
+- **n. 16-bis:** corrispettivi spettanti al **revisore legale** o alla società di revisione per la revisione legale dei conti annuali, per gli altri servizi di verifica, per i servizi di consulenza fiscale e per altri servizi diversi dalla revisione (salvo che la società sia inclusa in un consolidato che fornisce tale informazione).
 
-**OIC 25 — informativa obbligatoria:**
-- Descrizione delle differenze temporanee che hanno dato origine alle imposte differite/anticipate
-- Aliquota d'imposta utilizzata
-- Variazioni dell'esercizio nelle attivita' e passivita' fiscali differite
-- Ammontare delle imposte anticipate non rilevate per carenza di ragionevole certezza
+### nn. 17-21 — Capitale, strumenti finanziari, finanziamenti soci, patrimoni destinati
 
----
+- **n. 17:** numero e valore nominale di ciascuna categoria di azioni e delle nuove azioni sottoscritte nell'esercizio;
+- **n. 18:** azioni di godimento, obbligazioni convertibili, warrant, opzioni e titoli o valori simili;
+- **n. 19:** altri strumenti finanziari emessi dalla società;
+- **n. 19-bis:** **finanziamenti dei soci** ripartiti per scadenze, con separata indicazione di quelli con **clausola di postergazione** (art. 2467 c.c.);
+- **nn. 20-21:** patrimoni e finanziamenti destinati a uno specifico affare (artt. 2447-bis ss.).
 
-### n. 15 — Numero medio dei dipendenti ripartito per categoria
+### n. 22 — Locazione finanziaria
 
-**Categorie obbligatorie:**
-- Dirigenti
-- Quadri
-- Impiegati
-- Operai
-
-Il numero medio e' calcolato come media aritmetica dei dipendenti presenti nei dodici mesi dell'esercizio (o ponderata per la durata del contratto).
-
-**Bilancio abbreviato:** Informazione obbligatoria.
-
----
-
-### n. 16 — Compensi, anticipazioni e crediti concessi ad amministratori e sindaci
-
-**Contenuto:**
-- Compensi totali agli amministratori (inclusi benefit non monetari)
-- Compensi ai sindaci
-- Anticipazioni e crediti concessi
-- Garanzie prestate in loro favore
-- Indicazione, se applicabile, degli emolumenti complessivi spettanti agli amministratori esecutivi vs. non esecutivi
-
-**Nota:** La NI deve indicare i compensi degli **organi collegiali nel loro complesso**, non necessariamente i singoli importi per membro (salvo diversa previsione statutaria).
-
----
+Per i contratti di leasing finanziario contabilizzati con il **metodo patrimoniale** (OIC 12): prospetto con valore attuale delle rate non scadute, onere finanziario dell'esercizio, valore che i beni avrebbero avuto se considerati immobilizzazioni, con gli ammortamenti e le rettifiche (effetto del metodo finanziario sul PN e sul risultato).
 
 ### n. 22-bis — Operazioni con parti correlate
 
-**Obbligatorio per il bilancio ordinario** (non richiesto per bilancio abbreviato e micro-imprese).
+Operazioni realizzate con parti correlate, precisando **importo, natura del rapporto** e ogni altra informazione necessaria, **qualora siano rilevanti e non siano state concluse a normali condizioni di mercato**. Le informazioni possono essere aggregate secondo la loro natura. La nozione di parte correlata è quella dei principi contabili internazionali (IAS 24, art. 2427, c. 2).
 
-**Contenuto:**
-- Identificazione delle parti correlate (controllante, controllate, collegate, amministratori, azionisti rilevanti, ecc.)
-- Descrizione delle operazioni significative effettuate
-- Importi delle transazioni
-- Saldi in essere alla data di chiusura (crediti/debiti infragruppo)
-- Condizioni praticate (at arm's length o con condizioni diverse)
-- Politica adottata per la gestione delle parti correlate
+**Errori comuni:** omettere le operazioni con amministratori e soci rilevanti; non motivare le condizioni non di mercato.
 
-**Errori comuni:**
-- Omettere le operazioni con gli amministratori (classificabili come parti correlate).
-- Non indicare se le condizioni praticate sono equivalenti a quelle di mercato.
+### n. 22-ter — Accordi non risultanti dallo SP
+
+Natura e obiettivo economico degli accordi non risultanti dallo SP, con il loro effetto patrimoniale, finanziario ed economico, se i rischi e i benefici da essi derivanti sono significativi e l'indicazione è necessaria per valutare la situazione della società.
+
+### n. 22-quater — Fatti di rilievo successivi alla chiusura
+
+Natura e effetto patrimoniale, finanziario ed economico dei **fatti di rilievo avvenuti dopo la chiusura dell'esercizio** (OIC 29). Informazione trasferita dalla relazione sulla gestione alla NI dal D.Lgs. 139/2015.
+
+### n. 22-quinquies e 22-sexies — Consolidato
+
+Nome e sede dell'impresa che redige il bilancio consolidato dell'**insieme più grande** (22-quinquies) e **più piccolo** (22-sexies) di imprese di cui la società fa parte, e luogo in cui è disponibile copia del consolidato.
+
+### n. 22-septies — Destinazione del risultato
+
+**Proposta di destinazione degli utili o di copertura delle perdite**.
 
 ---
 
-### Ulteriori informazioni obbligatorie (selezione)
+## Art. 2427-bis — Strumenti finanziari
 
-**n. 22-ter — Accordi non risultanti dallo SP con effetti rilevanti su situazione patrimoniale, finanziaria e risultato economico:**
-Accordi fuori bilancio significativi (veicoli SPE, accordi di sale and lease-back, ecc.).
+**c. 1, n. 1 — Strumenti finanziari derivati** (OIC 32): per ciascuna categoria di derivati,
 
-**n. 22-quater — Natura e obiettivo economico delle operazioni non risultanti dallo SP:**
-Complementare al 22-ter, con indicazione dell'effetto su rischio finanziario, liquidita' e capitalizzazione.
+- il **fair value**;
+- informazioni sull'**entità e sulla natura** degli strumenti;
+- assunzioni fondamentali su cui sono basati modelli e tecniche di valutazione, se il fair value non è determinato con riferimento a un mercato;
+- **variazioni di valore** iscritte direttamente a CE e quelle imputate alle riserve di patrimonio netto;
+- tabella dei **movimenti delle riserve di fair value** (riserva per operazioni di copertura dei flussi finanziari attesi, voce A.VII del passivo).
+
+Per i derivati di copertura indicare il tipo di relazione (fair value hedge, cash flow hedge), l'elemento coperto e la strategia di gestione del rischio.
+
+**c. 1, n. 2 — Immobilizzazioni finanziarie iscritte a valore superiore al fair value:** valore contabile e fair value delle singole attività o di raggruppamenti, e motivi per i quali il valore contabile non è stato ridotto (con gli elementi che inducono a ritenere che possa essere recuperato).
 
 ---
 
 ## Tabella riepilogativa per forma di bilancio
 
-| Informazione art. 2427 | Bilancio ordinario | Bilancio abbreviato | Micro-imprese |
+| Informazione | Ordinario | Abbreviato (art. 2435-bis, c. 5) | Micro-imprese (art. 2435-ter) |
 |---|---|---|---|
-| Criteri di valutazione (n. 1) | Obbligatorio | Obbligatorio | Non obbligatoria (NI non richiesta) |
-| Movimentazione immobilizzazioni (n. 2) | Obbligatorio | Obbligatorio | Non obbligatoria |
-| Composizione debiti (n. 6) | Obbligatorio | Semplificato | Non obbligatoria |
-| Impegni e garanzie (n. 9) | Obbligatorio | Obbligatorio | Non obbligatoria |
-| Derivati — OIC 32 (n. 11-bis) | Obbligatorio | Obbligatorio | Non obbligatoria |
-| Fair value strumenti finanziari (n. 11-ter) | Obbligatorio | Obbligatorio | Non obbligatoria |
-| Numero dipendenti (n. 15) | Obbligatorio | Obbligatorio | Non obbligatoria |
-| Compensi amministratori/sindaci (n. 16) | Obbligatorio | Obbligatorio | Non obbligatoria |
-| Parti correlate (n. 22-bis) | Obbligatorio | Non richiesto | Non obbligatoria |
-| Accordi fuori bilancio (n. 22-ter) | Obbligatorio | Non richiesto | Non obbligatoria |
+| Criteri di valutazione (n. 1) | Sì | Sì | No (NI non richiesta) |
+| Movimenti immobilizzazioni (n. 2) | Sì | Sì | No |
+| Costi di impianto e sviluppo (n. 3) | Sì | No | No |
+| Partecipazioni controllate/collegate (n. 5) | Sì | No | No |
+| Crediti/debiti > 5 anni e garanzie reali (n. 6) | Sì | **Solo debiti**, senza ripartizione geografica | No |
+| Patrimonio netto: origine, disponibilità, distribuibilità (n. 7-bis) | Sì | No | No |
+| Oneri finanziari capitalizzati (n. 8) | Sì | Sì | No |
+| Impegni, garanzie, passività potenziali (n. 9) | Sì | Sì | **Sì, in calce allo SP** |
+| Elementi eccezionali (n. 13) | Sì | Sì | No |
+| Imposte differite e anticipate (n. 14) | Sì | No | No |
+| Numero medio dipendenti (n. 15) | Sì, per categoria | Sì, anche senza ripartizione per categoria | No |
+| Compensi amministratori e sindaci (n. 16) | Sì | Sì | **Sì, in calce allo SP** |
+| Corrispettivi revisore (n. 16-bis) | Sì | No | No |
+| Finanziamenti soci (n. 19-bis) | Sì | No | No |
+| Parti correlate (n. 22-bis) | Sì | Sì, limitabile a maggiori azionisti, organi sociali e partecipate | No |
+| Accordi fuori bilancio (n. 22-ter) | Sì | Sì, anche senza indicarne gli effetti | No |
+| Fatti successivi alla chiusura (n. 22-quater) | Sì | Sì | No |
+| Consolidato dell'insieme più piccolo (n. 22-sexies) | Sì | Sì, anche senza il luogo di disponibilità | No |
+| Proposta di destinazione del risultato (n. 22-septies) | Sì | No (prassi: indicata comunque) | No |
+| Derivati (art. 2427-bis, n. 1) | Sì | Sì | No (fair value non applicato) |
+| Azioni proprie e della controllante (art. 2428, nn. 3-4) | In RdG | In NI, se esonero dalla RdG | In calce allo SP, se esonero dalla RdG |
 
 ---
 
 ## Note operative finali
 
-1. La NI deve essere **coerente e riconciliabile** con SP e CE: ogni voce numerica indicata nella NI deve tornare con i saldi di bilancio.
-2. La NI si redige in **forma descrittiva e tabellare** secondo le esigenze di chiarezza; non esiste uno schema obbligatorio di presentazione (a differenza di SP e CE).
-3. Le informazioni **comparative** (esercizio precedente) sono richieste ove applicabili.
-4. Se un'informazione richiesta dall'art. 2427 c.c. **non e' applicabile** alla societa', la NI deve indicarlo esplicitamente (es. "La societa' non detiene strumenti finanziari derivati").
+1. La NI deve essere **coerente e riconciliabile** con SP e CE: ogni dato numerico deve tornare con i saldi di bilancio.
+2. La NI si redige in **forma descrittiva e tabellare**; per il deposito al Registro delle Imprese si utilizza la **tassonomia XBRL** vigente, che prevede tabelle standard.
+3. Le informazioni **comparative** dell'esercizio precedente sono fornite ove applicabili (art. 2423-ter, c. 5).
+4. Se un'informazione richiesta non è applicabile alla società, è buona prassi indicarlo esplicitamente (es. "La società non detiene strumenti finanziari derivati").
+5. **Informazioni complementari:** se le informazioni richieste da specifiche disposizioni non sono sufficienti a una rappresentazione veritiera e corretta, si forniscono le informazioni complementari necessarie (art. 2423, c. 3).
