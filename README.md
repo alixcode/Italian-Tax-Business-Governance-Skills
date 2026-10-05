@@ -1,6 +1,6 @@
-# Skill Dottore Commercialista: Repository Skills per la Gestione Contabile, Fiscale e Societaria delle Imprese Italiane
+# Skill Principi Contabili Nazionali: repository Skills per la gestione contabile, fiscale e societaria delle imprese italiane
 
-Repository di skills professionali per Claude Code, progettato per supportare dottori commercialisti, responsabili amministrativi e CFO nella gestione delle imprese italiane. Le skills sono strutturate per coprire l'intero ciclo di vita contabile, fiscale e societario, con riferimento costante alle normative vigenti.
+Repository di skills professionali, progettato per supportare dottori commercialisti, responsabili amministrativi e CFO nella gestione delle imprese italiane. Le skills sono strutturate per coprire l'intero ciclo di vita contabile, fiscale e societario, con riferimento costante alle normative vigenti.
 
 Le fonti di riferimento sono aggiornate a:
 - **OIC Binder 2024** (principi contabili nazionali, revisioni marzo 2024)
