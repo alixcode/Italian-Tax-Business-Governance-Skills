@@ -1,6 +1,6 @@
 ---
 name: IVA — Adempimenti e Liquidazione Periodica
-description: Registri IVA, liquidazioni mensili e trimestrali, dichiarazione annuale, fatturazione elettronica, esterometro. Adempimenti periodici e scadenze.
+description: Registri IVA, liquidazioni mensili e trimestrali, dichiarazione annuale, fatturazione elettronica, trasmissione dei dati delle operazioni transfrontaliere via SdI. Adempimenti periodici e scadenze.
 area: IVA
 fonti:
   - "DPR 633/1972, artt. 23, 25, 27, 28 (vigente fino al 31/12/2026); TU IVA — D.Lgs. 19 gennaio 2026, n. 10 (efficace dal 1/1/2027)"
@@ -133,19 +133,29 @@ I soggetti in **regime forfettario** (art. 1, cc. 54-89, L. 190/2014) sono stati
 
 ---
 
-## 5. Esterometro — Comunicazione operazioni transfrontaliere
+## 5. Operazioni transfrontaliere — trasmissione dei dati tramite SdI (ex esterometro)
 
-L'**esterometro** (già "spesometro estero") è la comunicazione telematica dei dati delle operazioni con soggetti non stabiliti in Italia (art. 1, c. 3-bis D.Lgs. 127/2015).
+Dal **1° luglio 2022** la comunicazione periodica delle operazioni con soggetti non stabiliti in Italia ("esterometro") è **abolita**: i dati sono trasmessi **al Sistema di Interscambio in formato XML** (FatturaPA), ai sensi dell'art. 1, c. 3-bis, D.Lgs. 127/2015 come modificato dalla L. 178/2020.
 
-### Scadenza
+### Operazioni attive (cessioni e prestazioni verso soggetti non stabiliti)
 
-Entro il **15° giorno del mese successivo** alla data:
-- Di emissione della fattura (per le operazioni attive verso soggetti esteri)
-- Di ricezione del documento (per le operazioni passive da soggetti esteri)
+- Trasmissione via SdI **entro i termini di emissione della fattura** (art. 21 DPR 633/1972: di regola 12 giorni dall'effettuazione; fattura differita entro il 15 del mese successivo).
+- Codice destinatario convenzionale "XXXXXXX"; il documento non viene recapitato al cliente estero, al quale si invia copia analogica o elettronica.
 
-### Esonero
+### Operazioni passive (acquisti da soggetti non stabiliti)
 
-Sono escluse dall'esterometro le operazioni per le quali è stata emessa o ricevuta una bolletta doganale, nonché quelle effettuate con soggetti non passivi IVA (privati consumatori finali).
+- Trasmissione via SdI di un documento integrativo/autofattura (tipi documento **TD17** servizi dall'estero, **TD18** beni intra-UE, **TD19** beni ex art. 17, c. 2) **entro il 15° giorno del mese successivo** a quello di **ricevimento del documento** comprovante l'operazione o di **effettuazione** dell'operazione.
+- Il documento assolve anche l'obbligo di integrazione/autofatturazione ai fini del reverse charge.
+
+### Esclusioni
+
+- Operazioni per le quali è stata emessa o ricevuta una **bolletta doganale**.
+- Operazioni per le quali sono state emesse o ricevute **fatture elettroniche** tramite SdI.
+- **Acquisti di beni e servizi non rilevanti territorialmente** in Italia (artt. 7-7-octies DPR 633/1972) di importo **non superiore a 5.000 €** per singola operazione (art. 12 D.L. 73/2022).
+
+### Sanzioni
+
+**2 € per ciascuna fattura**, entro il limite di **400 € mensili**; riduzione alla metà (1 € per fattura, max 200 €) se la trasmissione è effettuata entro i 15 giorni successivi alla scadenza (art. 11, c. 2-quater D.Lgs. 471/1997, ora nel TU sanzioni). Ravvedibile.
 
 ---
 
@@ -158,6 +168,6 @@ Sono escluse dall'esterometro le operazioni per le quali è stata emessa o ricev
 | Liquidazione IVA mensile | Mensile | 16 del mese successivo |
 | Liquidazione IVA trimestrale | Trimestrale | 16 del 2° mese successivo al trimestre |
 | Comunicazione LIPE | Trimestrale | Vedi tabella |
-| Esterometro | Mensile | 15 del mese successivo |
+| Dati operazioni transfrontaliere via SdI | Per operazione | Attive: termini di fatturazione; passive: 15 del mese successivo al ricevimento/effettuazione |
 | Acconto IVA dicembre | Annuale | 27 dicembre |
 | Dichiarazione annuale IVA | Annuale | 30 aprile anno successivo |
