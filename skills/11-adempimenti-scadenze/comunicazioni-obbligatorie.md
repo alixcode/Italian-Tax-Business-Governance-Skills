@@ -1,7 +1,7 @@
 ---
-name: Comunicazioni Obbligatorie Periodiche e Societarie
-description: Principali comunicazioni obbligatorie delle società italiane verso Agenzia delle Entrate, ADM, Registro delle Imprese, INPS/INAIL e altri enti: LIPE, Intrastat, operazioni transfrontaliere, bollo su fatture elettroniche, deposito bilancio, domicilio digitale, titolare effettivo, comunicazioni crediti d'imposta.
-area: Adempimenti e Scadenze
+name: "Comunicazioni Obbligatorie Periodiche e Societarie"
+description: "Principali comunicazioni obbligatorie delle società italiane verso Agenzia delle Entrate, ADM, Registro delle Imprese, INPS/INAIL e altri enti: LIPE, Intrastat, operazioni transfrontaliere, bollo su fatture elettroniche, deposito bilancio, domicilio digitale, titolare effettivo, comunicazioni crediti d'imposta."
+area: "Adempimenti e Scadenze"
 fonti:
   - "D.L. 31 maggio 2010, n. 78, art. 21-bis — Comunicazione liquidazioni periodiche IVA (LIPE)"
   - "D.Lgs. 5 agosto 2015, n. 127, art. 1, c. 3-bis — Dati operazioni transfrontaliere via SdI"

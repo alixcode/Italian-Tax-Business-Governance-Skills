@@ -1,7 +1,7 @@
 ---
-name: Sanzioni Tributarie e Ravvedimento Operoso
-description: Sistema sanzionatorio tributario amministrativo dopo la riforma (D.Lgs. 87/2024 e TU sanzioni D.Lgs. 173/2024): misure delle principali sanzioni, riduzioni del ravvedimento operoso, interessi legali, calcolo pratico, cumulo e cause di non punibilità; cenni alle soglie penali.
-area: Adempimenti e Scadenze
+name: "Sanzioni Tributarie e Ravvedimento Operoso"
+description: "Sistema sanzionatorio tributario amministrativo dopo la riforma (D.Lgs. 87/2024 e TU sanzioni D.Lgs. 173/2024): misure delle principali sanzioni, riduzioni del ravvedimento operoso, interessi legali, calcolo pratico, cumulo e cause di non punibilità; cenni alle soglie penali."
+area: "Adempimenti e Scadenze"
 fonti:
   - "D.Lgs. 14 giugno 2024, n. 87 — Revisione del sistema sanzionatorio tributario (violazioni commesse dal 1/9/2024)"
   - "D.Lgs. 5 novembre 2024, n. 173 — Testo unico delle sanzioni tributarie amministrative e penali (applicabile dal 1/1/2026)"

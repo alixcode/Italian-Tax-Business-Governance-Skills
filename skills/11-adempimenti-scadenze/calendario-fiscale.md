@@ -1,7 +1,7 @@
 ---
-name: Calendario Fiscale Annuale — Società di Capitali
-description: Scadenzario fiscale e previdenziale annuale per società di capitali con esercizio coincidente con l'anno solare: versamenti F24, IVA, imposte dirette, dichiarazioni, comunicazioni periodiche, bollo su fatture elettroniche; regole di slittamento dei termini.
-area: Adempimenti e Scadenze
+name: "Calendario Fiscale Annuale — Società di Capitali"
+description: "Scadenzario fiscale e previdenziale annuale per società di capitali con esercizio coincidente con l'anno solare: versamenti F24, IVA, imposte dirette, dichiarazioni, comunicazioni periodiche, bollo su fatture elettroniche; regole di slittamento dei termini."
+area: "Adempimenti e Scadenze"
 fonti:
   - "DPR 22 luglio 1998, n. 322 — Dichiarazioni (agg. 2026)"
   - "DPR 7 dicembre 2001, n. 435 — Termini di versamento"

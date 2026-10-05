@@ -1,7 +1,7 @@
 ---
-name: Dichiarazioni Fiscali — Redditi SC, IRAP, IVA, 770, CU
-description: Soggetti obbligati, contenuti essenziali, termini di presentazione, dichiarazioni tardive, integrative a favore e a sfavore, visto di conformità e conservazione per le principali dichiarazioni fiscali delle società di capitali italiane.
-area: Adempimenti e Scadenze
+name: "Dichiarazioni Fiscali — Redditi SC, IRAP, IVA, 770, CU"
+description: "Soggetti obbligati, contenuti essenziali, termini di presentazione, dichiarazioni tardive, integrative a favore e a sfavore, visto di conformità e conservazione per le principali dichiarazioni fiscali delle società di capitali italiane."
+area: "Adempimenti e Scadenze"
 fonti:
   - "DPR 22 luglio 1998, n. 322, artt. 1-8 — Modalità e termini delle dichiarazioni (agg. 2026)"
   - "DPR 22 luglio 1998, n. 322, art. 2, cc. 7, 8, 8-bis — Dichiarazione tardiva e integrativa"
