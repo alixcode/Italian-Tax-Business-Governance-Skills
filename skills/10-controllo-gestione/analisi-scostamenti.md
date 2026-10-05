@@ -1,7 +1,7 @@
 ---
-name: Analisi degli Scostamenti Budget / Consuntivo
-description: Metodologia di variance analysis per PMI italiane: scomposizione degli scostamenti di ricavi (prezzo, volume, mix), costi variabili (prezzo, efficienza), costi fissi (spesa) e margini; budget flessibile, soglie di significatività, reporting e azioni correttive.
-area: Controllo di Gestione
+name: "Analisi degli Scostamenti Budget / Consuntivo"
+description: "Metodologia di variance analysis per PMI italiane: scomposizione degli scostamenti di ricavi (prezzo, volume, mix), costi variabili (prezzo, efficienza), costi fissi (spesa) e margini; budget flessibile, soglie di significatività, reporting e azioni correttive."
+area: "Controllo di Gestione"
 fonti:
   - "Codice Civile art. 2086, c. 2 — Assetti adeguati (agg. novembre 2024)"
   - "D.Lgs. 12 gennaio 2019, n. 14 (CCII), art. 3, c. 3 — Rilevazione tempestiva degli squilibri"

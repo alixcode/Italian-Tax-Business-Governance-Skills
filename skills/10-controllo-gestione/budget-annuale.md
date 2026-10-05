@@ -1,7 +1,7 @@
 ---
-name: Budget Annuale — Economico, Patrimoniale e Finanziario
-description: Processo di budgeting per PMI italiane: struttura del master budget (operativo, investimenti, finanziario), sequenza di costruzione, collegamento con gli schemi civilistici e con gli adeguati assetti ex art. 2086 c.c. e la verifica prospettica della sostenibilità dei debiti (art. 3 CCII).
-area: Controllo di Gestione
+name: "Budget Annuale — Economico, Patrimoniale e Finanziario"
+description: "Processo di budgeting per PMI italiane: struttura del master budget (operativo, investimenti, finanziario), sequenza di costruzione, collegamento con gli schemi civilistici e con gli adeguati assetti ex art. 2086 c.c. e la verifica prospettica della sostenibilità dei debiti (art. 3 CCII)."
+area: "Controllo di Gestione"
 fonti:
   - "Codice Civile art. 2086, c. 2 — Assetti organizzativi, amministrativi e contabili adeguati (agg. novembre 2024)"
   - "D.Lgs. 12 gennaio 2019, n. 14 (CCII), art. 3 — Adeguate misure e assetti; segnali di allarme"

@@ -1,7 +1,7 @@
 ---
-name: KPI e Indici di Bilancio
-description: Sistema di indicatori economico-finanziari per PMI italiane: redditività, struttura, liquidità, ciclo del circolante, indebitamento, sostenibilità del debito (DSCR) e indicatori di crisi ex art. 3 CCII; formule, interpretazione e raccordo con le voci degli artt. 2424-2425 c.c.
-area: Controllo di Gestione
+name: "KPI e Indici di Bilancio"
+description: "Sistema di indicatori economico-finanziari per PMI italiane: redditività, struttura, liquidità, ciclo del circolante, indebitamento, sostenibilità del debito (DSCR) e indicatori di crisi ex art. 3 CCII; formule, interpretazione e raccordo con le voci degli artt. 2424-2425 c.c."
+area: "Controllo di Gestione"
 fonti:
   - "Codice Civile artt. 2424, 2425, 2428, c. 2 — Schemi e indicatori nella relazione sulla gestione (agg. novembre 2024)"
   - "D.Lgs. 12 gennaio 2019, n. 14 (CCII), art. 3 e art. 13 — Assetti, segnali di allarme, test pratico e lista di controllo"

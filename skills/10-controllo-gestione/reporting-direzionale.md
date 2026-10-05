@@ -1,7 +1,7 @@
 ---
-name: Reporting Direzionale e Cruscotto Mensile
-description: Progettazione del sistema di reporting direzionale per PMI italiane: chiusure mensili gestionali, riclassificazioni di SP e CE, contenuto del cruscotto per CdA e organo di controllo, flussi informativi ex artt. 2381 e 2403-bis c.c., collegamento con gli adeguati assetti.
-area: Controllo di Gestione
+name: "Reporting Direzionale e Cruscotto Mensile"
+description: "Progettazione del sistema di reporting direzionale per PMI italiane: chiusure mensili gestionali, riclassificazioni di SP e CE, contenuto del cruscotto per CdA e organo di controllo, flussi informativi ex artt. 2381 e 2403-bis c.c., collegamento con gli adeguati assetti."
+area: "Controllo di Gestione"
 fonti:
   - "Codice Civile art. 2086, c. 2 — Assetti adeguati (agg. novembre 2024)"
   - "Codice Civile art. 2381, cc. 3 e 5 — Flussi informativi tra organi delegati e CdA"
