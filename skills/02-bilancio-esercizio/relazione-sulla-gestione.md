@@ -1,7 +1,7 @@
 ---
-name: Relazione sulla Gestione
-description: Contenuto obbligatorio della Relazione sulla Gestione ex art. 2428 c.c., indicatori finanziari e non finanziari, esoneri per bilancio abbreviato e micro-imprese, raccordo con la rendicontazione di sostenibilità (D.Lgs. 125/2024).
-area: Bilancio d'Esercizio
+name: "Relazione sulla Gestione"
+description: "Contenuto obbligatorio della Relazione sulla Gestione ex art. 2428 c.c., indicatori finanziari e non finanziari, esoneri per bilancio abbreviato e micro-imprese, raccordo con la rendicontazione di sostenibilità (D.Lgs. 125/2024)."
+area: "Bilancio d'Esercizio"
 fonti:
   - "Codice Civile art. 2428 — Relazione sulla gestione (agg. novembre 2024)"
   - "Codice Civile artt. 2435-bis, c. 7 e 2435-ter, c. 2 — Esoneri (agg. novembre 2024)"
