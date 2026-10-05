@@ -74,7 +74,7 @@ Le scadenze indicate si riferiscono a società con **esercizio sociale coinciden
 | LIPE I trimestre | 31 maggio | Art. 21-bis D.L. 78/2010 |
 | Versamento IVA mensile (competenza aprile) | 16 maggio | Art. 27 TU IVA |
 | Versamento ritenute aprile | 16 maggio | DPR 602/1973 |
-| Esterometro aprile | 15 maggio | Art. 1, c. 3-bis D.Lgs. 127/2015 |
+| Dati operazioni transfrontaliere via SdI (acquisti da soggetti non stabiliti ricevuti/effettuati in aprile) | 15 maggio | Art. 1, c. 3-bis D.Lgs. 127/2015 |
 
 **Nota sul deposito bilancio**: il deposito comprende bilancio (stato patrimoniale, conto economico, nota integrativa), relazione sulla gestione, relazione del Collegio Sindacale/Revisore, verbale di approvazione assembleare.
 
@@ -167,7 +167,7 @@ Le scadenze indicate si riferiscono a società con **esercizio sociale coinciden
 | Versamento ritenute sostituto d'imposta (F24) | 16 del mese successivo | DPR 602/1973 |
 | Versamento contributi INPS/INAIL dipendenti | 16 del mese successivo | L. 88/1989 |
 | Liquidazione e versamento IVA mensile | 16 del mese successivo | Art. 27 TU IVA |
-| Esterometro (operazioni con soggetti esteri) | 15 del mese successivo | Art. 1, c. 3-bis D.Lgs. 127/2015 |
+| Operazioni transfrontaliere via SdI (ex esterometro, abolito dal 1/7/2022): acquisti da soggetti non stabiliti | 15 del mese successivo al ricevimento/effettuazione (cessioni: nei termini di emissione della fattura) | Art. 1, c. 3-bis D.Lgs. 127/2015 |
 
 ---
 

@@ -3,9 +3,13 @@ name: Governance SpA e SRL — Organi Sociali e Struttura
 description: Struttura degli organi sociali di SpA (artt. 2325-2451 c.c.) e SRL (artt. 2462-2483 c.c.), modelli di governance, requisiti di capitale, distribuzione degli utili, obblighi comuni.
 area: Diritto Societario
 fonti:
-  - "Codice Civile, artt. 2325-2483 (aggiornato novembre 2024)"
-conflitti_noti: "Le soglie per l'obbligo del Collegio Sindacale nelle SRL (art. 2477 c.c.) sono state modificate da D.Lgs. 14/2019 e successive interpretazioni ministeriali — verificare la versione aggiornata dell'art. 2477 per i valori esatti vigenti nell'anno di riferimento."
-aggiornamento: "2024"
+  - "Codice Civile, artt. 2325-2483 (aggiornato novembre 2024, incluse le modifiche della L. 21/2024)"
+ - "Codice Civile art. 2463, cc. 4-5 e art. 2463-bis — SRL a capitale ridotto e SRL semplificata (D.L. 76/2013)"
+ - "D.L. 29 novembre 2008, n. 185, art. 16, c. 12-quater ss. — Abolizione del libro soci SRL"
+ - "D.L. 18 aprile 2019, n. 32 (conv. L. 55/2019) — Soglie art. 2477 c.c."
+ - "D.Lgs. 27 gennaio 2010, n. 39 — Revisione legale"
+conflitti_noti: "Le soglie per l'obbligo dell'organo di controllo nelle SRL (art. 2477 c.c.) sono quelle introdotte dall'art. 379 CCII e modificate dal D.L. 32/2019 (conv. L. 55/2019); non sono state toccate dal D.Lgs. 125/2024, che ha aggiornato solo le soglie di bilancio (artt. 2435-bis e 2435-ter)."
+aggiornamento: "2026-10"
 ---
 
 # Governance SpA e SRL — Organi Sociali e Struttura
@@ -57,10 +61,10 @@ Poteri e responsabilità:
 
 Il **Collegio Sindacale** è l'organo di controllo interno obbligatorio nelle SpA (art. 2397 c.c.).
 
-- Composizione: **3 o 5 sindaci effettivi** + 2 supplenti; devono essere iscritti nel Registro dei Revisori Legali o negli albi professionali abilitati
+- Composizione: **3 o 5 sindaci effettivi** + 2 supplenti; almeno **un membro effettivo e un supplente** devono essere iscritti nel **Registro dei revisori legali**; gli altri, se non iscritti, devono appartenere agli albi professionali individuati con decreto ministeriale o essere professori universitari di ruolo in materie economiche o giuridiche (art. 2397, c. 2)
 - Funzioni: vigilanza sull'osservanza della legge e dello statuto; vigilanza sull'adeguatezza degli assetti organizzativi, amministrativi e contabili; controllo sull'amministrazione
 - Riunioni: almeno ogni **90 giorni** (art. 2404 c.c.)
-- Il Collegio Sindacale può svolgere anche le funzioni di **revisione legale** se lo statuto lo prevede e non è obbligatoria una società di revisione esterna
+- **Revisione legale affidata al collegio:** lo statuto delle SpA che **non sono tenute al bilancio consolidato** e non sono enti di interesse pubblico (né enti sottoposti a regime intermedio) può prevedere che la revisione legale sia esercitata dal collegio sindacale; in tal caso **tutti i sindaci** devono essere revisori legali iscritti nel Registro (art. 2409-bis, c. 2)
 
 #### 4. Revisore Legale / Società di Revisione
 
@@ -78,7 +82,7 @@ Il Codice Civile prevede due modelli alternativi a quello tradizionale (art. 238
 - Ispirato ai modelli tedeschi e nordeuropei; più diffuso nelle banche e nelle società a partecipazione pubblica
 
 #### Modello monistico (artt. 2409-sexiesdecies ss. c.c.)
-- Un unico **Consiglio di Amministrazione** che include al suo interno un **Comitato per il Controllo sulla Gestione (CCI)** composto da amministratori indipendenti
+- Un unico **Consiglio di Amministrazione** che include al suo interno un **Comitato per il controllo sulla gestione (art. 2409-octiesdecies c.c.)** composto da amministratori indipendenti
 - Ispirato al modello anglosassone
 
 ---
@@ -91,7 +95,12 @@ La distribuzione degli utili deve rispettare le seguenti regole:
 2. **Riserve statutarie**: ulteriori accantonamenti previsti dallo statuto
 3. Il residuo può essere distribuito ai soci su delibera dell'assemblea ordinaria
 4. Non possono essere distribuiti utili che non siano **effettivamente conseguiti** (divieto di distribuzione di utili fittizi — art. 2433, c. 3 c.c.)
-5. In caso di distribuzione di riserve: necessaria delibera assembleare e rispetto dei limiti dell'art. 2445 c.c. (riduzione capitale) se si intacca la riserva legale oltre soglia
+5. Se si verifica una **perdita del capitale sociale**, non può farsi luogo a ripartizione di utili fino a che il capitale non sia reintegrato o ridotto in misura corrispondente (art. 2433, c. 3)
+6. Finché l'ammortamento dei **costi di impianto, ampliamento e sviluppo** non è completato, possono essere distribuiti dividendi solo se residuano **riserve disponibili** sufficienti a coprirne l'ammontare non ammortizzato (art. 2426, c. 1, n. 5)
+7. La **distribuzione di riserve** richiede delibera assembleare e riguarda solo le riserve **disponibili e distribuibili** (OIC 28; prospetto art. 2427, n. 7-bis): la riserva legale non è distribuibile finché non supera il quinto del capitale; la riserva da utili su cambi non realizzati (art. 2426, n. 8-bis) e le riserve vincolate per legge non sono distribuibili
+8. I dividendi pagati in violazione dell'art. 2433 non sono ripetibili se i soci li hanno riscossi in buona fede in base a un bilancio regolarmente approvato da cui risultino utili netti corrispondenti (art. 2433, c. 4)
+
+Nelle **SRL** la decisione di distribuzione spetta ai soci (art. 2479, c. 2, n. 1) e si applicano regole analoghe (art. 2478-bis, cc. 4-6).
 
 ---
 
@@ -100,9 +109,10 @@ La distribuzione degli utili deve rispettare le seguenti regole:
 ### Caratteristiche fondamentali
 
 - **Responsabilità dei soci**: limitata al conferimento (art. 2462 c.c.)
-- **Capitale minimo**: **10.000 €** (art. 2463, c. 2, n. 4 c.c.)
-- **SRL semplificata**: capitale minimo **1 €**, riservata a persone fisiche (art. 2463-bis c.c.); atto costitutivo tipizzato
-- **Partecipazioni**: **quote** (non azioni) — non liberamente trasferibili senza il consenso degli altri soci (salvo diversa previsione statutaria)
+- **Capitale**: di regola non inferiore a **10.000 €** (art. 2463, c. 2, n. 4 c.c.)
+- **SRL a capitale ridotto** (art. 2463, cc. 4-5): capitale **inferiore a 10.000 € ma non inferiore a 1 €**; i conferimenti devono farsi **in denaro** e **versati per intero** all'organo amministrativo; la riserva legale si alimenta con almeno **1/5 degli utili netti** fino a che, sommata al capitale, raggiunga 10.000 €
+- **SRL semplificata** (art. 2463-bis c.c.): costituibile solo da **persone fisiche** (senza limiti di età dal D.L. 76/2013), con atto pubblico conforme al **modello standard** ministeriale (DM 138/2012); capitale da 1 € a 9.999,99 €, versato in denaro e per intero; esente da diritti di bollo e di segreteria e senza onorari notarili per l'atto standard
+- **Partecipazioni**: **quote** (non azioni), non rappresentate da titoli; **liberamente trasferibili** per atto tra vivi e per successione a causa di morte, **salvo contraria disposizione dell'atto costitutivo** (art. 2469 c.c.: clausole di prelazione, gradimento, intrasferibilità, con diritto di recesso nei casi di legge). Il trasferimento è depositato al Registro delle Imprese entro 30 giorni (art. 2470)
 - Struttura più flessibile, adatta a PMI
 
 ---
@@ -124,7 +134,7 @@ L'assemblea dei soci delibera sulle materie riservate dalla legge o dallo statut
 
 #### Collegio Sindacale nelle SRL — obbligatorietà (art. 2477 c.c.)
 
-La nomina dell'organo di controllo (Collegio Sindacale o revisore unico) è obbligatoria nelle SRL che superano almeno **uno** dei seguenti limiti per due esercizi consecutivi:
+La nomina dell'**organo di controllo** (anche monocratico) **o di un revisore legale** è obbligatoria nelle SRL che superano almeno **uno** dei seguenti limiti per due esercizi consecutivi:
 
 | Parametro | Soglia |
 |---|---|
@@ -132,7 +142,7 @@ La nomina dell'organo di controllo (Collegio Sindacale o revisore unico) è obbl
 | Ricavi delle vendite e delle prestazioni | > 4.000.000 € |
 | Dipendenti occupati in media durante l'esercizio | > 20 unità |
 
-**Nota**: le soglie indicate corrispondono alla versione dell'art. 2477 risultante dal D.Lgs. 14/2019 (CCII). Verificare l'aggiornamento normativo per l'anno di riferimento.
+**Nota**: soglie introdotte dall'art. 379 CCII (D.Lgs. 14/2019) e innalzate dal **D.L. 32/2019** (conv. L. 55/2019). L'obbligo **cessa** quando, per **tre esercizi consecutivi**, non è superato alcuno dei limiti. Se l'assemblea non provvede alla nomina, vi provvede il Tribunale su richiesta di qualsiasi interessato o su segnalazione del conservatore del Registro delle Imprese.
 
 L'organo di controllo è altresì obbligatorio se la SRL è tenuta alla redazione del bilancio consolidato o controlla una società obbligata alla revisione legale.
 
@@ -142,11 +152,24 @@ L'organo di controllo è altresì obbligatorio se la SRL è tenuta alla redazion
 
 ### Libri sociali obbligatori
 
-- **Libro delle adunanze e delle deliberazioni dell'assemblea** (art. 2421, c. 1, n. 1 c.c.)
-- **Libro delle adunanze e delle deliberazioni del CdA** (art. 2421, c. 1, n. 3 c.c.) — solo SpA
-- **Libro delle adunanze del Collegio Sindacale** (art. 2421, c. 1, n. 4 c.c.) — ove presente
-- **Libro dei soci** (solo SRL — art. 2478, c. 1, n. 1 c.c.)
-- **Libro delle adunanze degli obbligazionisti** (solo SpA con obbligazioni emesse)
+**SpA (art. 2421 c.c.):**
+- Libro dei soci
+- Libro delle obbligazioni
+- Libro delle adunanze e delle deliberazioni delle assemblee
+- Libro delle adunanze e delle deliberazioni del CdA (o del consiglio di gestione)
+- Libro delle adunanze e delle deliberazioni del collegio sindacale (o del consiglio di sorveglianza / comitato per il controllo sulla gestione)
+- Libro delle adunanze e delle deliberazioni del comitato esecutivo, se esistente
+- Libro delle adunanze e delle deliberazioni delle assemblee degli obbligazionisti, se emesse obbligazioni
+- Libro degli strumenti finanziari emessi ai sensi dell'art. 2447-sexies, se emessi
+
+**SRL (art. 2478 c.c.):**
+- Libro delle decisioni dei soci
+- Libro delle decisioni degli amministratori
+- Libro delle decisioni del collegio sindacale o del revisore, se nominati
+
+⚠️ Il **libro dei soci delle SRL è stato abolito** dal 30 marzo 2009 (art. 16, c. 12-quater ss., D.L. 185/2008, conv. L. 2/2009): la compagine sociale risulta dal **Registro delle Imprese**, nel quale il trasferimento delle quote è depositato entro 30 giorni (art. 2470 c.c.).
+
+**Vidimazione:** i libri sociali sono numerati e bollati prima dell'uso (art. 2215 c.c.) o tenuti in forma digitale; le SpA versano annualmente la **tassa di concessione governativa** forfettaria (16 marzo).
 
 ### Deposito del bilancio nel Registro delle Imprese
 
@@ -154,4 +177,4 @@ Il bilancio approvato dall'assemblea deve essere depositato presso il Registro d
 
 ### Assetti organizzativi adeguati (art. 2086, c. 2 c.c.)
 
-Sia gli amministratori di SpA sia quelli di SRL sono tenuti a dotare la società di **assetti organizzativi, amministrativi e contabili adeguati** alla natura e alle dimensioni dell'impresa, con particolare attenzione alla rilevazione tempestiva della crisi e della perdita della continuità aziendale.
+Sia gli amministratori di SpA sia quelli di SRL (art. 2475, c. 1, come modificato dal D.Lgs. 14/2019 e dal D.Lgs. 84/2020: l'istituzione degli assetti spetta esclusivamente agli amministratori) sono tenuti a dotare la società di **assetti organizzativi, amministrativi e contabili adeguati** alla natura e alle dimensioni dell'impresa, con particolare attenzione alla rilevazione tempestiva della crisi e della perdita della continuità aziendale.
