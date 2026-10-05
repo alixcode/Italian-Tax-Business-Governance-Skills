@@ -1,7 +1,7 @@
 ---
-name: Riduzione del Capitale per Perdite e Riduzione Volontaria
-description: Obblighi di amministratori, organo di controllo e assemblea in caso di perdite superiori a un terzo del capitale (artt. 2446-2447, 2482-bis, 2482-ter c.c.), riduzione volontaria (artt. 2445, 2482), causa di scioglimento, deroghe temporanee e raccordo con il CCII.
-area: Diritto Societario
+name: "Riduzione del Capitale per Perdite e Riduzione Volontaria"
+description: "Obblighi di amministratori, organo di controllo e assemblea in caso di perdite superiori a un terzo del capitale (artt. 2446-2447, 2482-bis, 2482-ter c.c.), riduzione volontaria (artt. 2445, 2482), causa di scioglimento, deroghe temporanee e raccordo con il CCII."
+area: "Diritto Societario"
 fonti:
   - "Codice Civile artt. 2445, 2446, 2447 — SpA (agg. novembre 2024)"
   - "Codice Civile artt. 2482, 2482-bis, 2482-ter — SRL (agg. novembre 2024)"

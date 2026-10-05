@@ -1,7 +1,7 @@
 ---
-name: Recesso del Socio — SpA e SRL
-description: Cause legali e statutarie di recesso, termini e modalità di esercizio, criteri di determinazione del valore di liquidazione e procedimento di rimborso nelle SpA (artt. 2437-2437-sexies c.c.) e SRL (art. 2473 c.c.); riflessi contabili e fiscali.
-area: Diritto Societario
+name: "Recesso del Socio — SpA e SRL"
+description: "Cause legali e statutarie di recesso, termini e modalità di esercizio, criteri di determinazione del valore di liquidazione e procedimento di rimborso nelle SpA (artt. 2437-2437-sexies c.c.) e SRL (art. 2473 c.c.); riflessi contabili e fiscali."
+area: "Diritto Societario"
 fonti:
   - "Codice Civile artt. 2437, 2437-bis, 2437-ter, 2437-quater, 2437-quinquies, 2437-sexies — SpA (agg. novembre 2024)"
   - "Codice Civile artt. 2469, 2473, 2473-bis — SRL (agg. novembre 2024)"

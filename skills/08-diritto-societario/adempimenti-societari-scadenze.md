@@ -5,7 +5,7 @@ area: Diritto Societario
 fonti:
   - "Codice Civile, artt. 2364, 2429, 2435 (aggiornato novembre 2024)"
   - "DPR 22 luglio 1998, n. 322 (dichiarazioni fiscali)"
-  - "TU IVA — D.Lgs. 10 gennaio 2026 (adempimenti IVA)"
+  - "TU IVA — D.Lgs. 19 gennaio 2026, n. 10 (adempimenti IVA)"
   - "TUIR — D.P.R. 22 dicembre 1986, n. 917 (IRES, IRAP)"
 conflitti_noti: "Le scadenze fiscali sono frequentemente prorogate con decreti emergenziali o provvedimenti dell'Agenzia delle Entrate — le date indicate sono quelle ordinarie di legge. Verificare anno per anno le eventuali proroghe ministeriali in vigore."
 aggiornamento: "2026"

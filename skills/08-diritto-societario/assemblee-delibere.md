@@ -1,7 +1,7 @@
 ---
-name: Assemblee e Delibere — SpA e SRL
-description: Convocazione, costituzione, quorum deliberativi, verbalizzazione e invalidità delle delibere assembleari di SpA (artt. 2363-2379-ter c.c.) e decisioni dei soci di SRL (artt. 2479-2479-ter c.c.); assemblea di approvazione del bilancio.
-area: Diritto Societario
+name: "Assemblee e Delibere — SpA e SRL"
+description: "Convocazione, costituzione, quorum deliberativi, verbalizzazione e invalidità delle delibere assembleari di SpA (artt. 2363-2379-ter c.c.) e decisioni dei soci di SRL (artt. 2479-2479-ter c.c.); assemblea di approvazione del bilancio."
+area: "Diritto Societario"
 fonti:
   - "Codice Civile artt. 2363-2379-ter — Assemblea SpA (agg. novembre 2024)"
   - "Codice Civile artt. 2479, 2479-bis, 2479-ter — Decisioni dei soci SRL (agg. novembre 2024)"
