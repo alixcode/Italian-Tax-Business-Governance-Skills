@@ -1,12 +1,13 @@
 ---
-titolo: "OIC 34 — Ricavi"
-area: "03-principi-contabili-oic"
+name: "OIC 34 — Ricavi"
+description: "Rilevazione e misurazione dei ricavi da contratti con clienti (OIC 34): unità elementari di contabilizzazione, allocazione del prezzo, momento di rilevazione, rettifiche, confronto con IFRS 15 e TUIR art. 85."
+area: "Principi Contabili OIC"
 fonti:
   - "OIC 34 (versione aprile 2023)"
   - "Art. 2425 c.c. n. 1 — Conto economico: ricavi delle vendite e delle prestazioni"
   - "TUIR art. 85 — Ricavi"
   - "TUIR art. 86 — Plusvalenze patrimoniali"
-aggiornato: "2023-04"
+aggiornamento: "2023-04"
 tags: [oic34, ricavi, rilevazione, performance-obligation, IFRS15, competenza, TUIR-85]
 ---
 

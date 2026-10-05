@@ -1,12 +1,13 @@
 ---
-titolo: "OIC 25 — Imposte sul Reddito"
-area: "03-principi-contabili-oic"
+name: "OIC 25 — Imposte sul Reddito"
+description: "Imposte sul reddito (OIC 25, art. 2426 n. 14 c.c.): imposte correnti, differenze temporanee e permanenti, imposte differite attive e passive, aliquote, rilevazione contabile e informativa in nota integrativa."
+area: "Principi Contabili OIC"
 fonti:
   - "OIC 25 (versione marzo 2024)"
   - "Art. 2426 c.c. n. 14 — Imposte differite e anticipate"
   - "TUIR art. 83 — Determinazione del reddito complessivo"
   - "D.Lgs. 87/2024 — IRES addizionale per il settore bancario e assicurativo"
-aggiornato: "2024-03"
+aggiornamento: "2024-03"
 tags: [oic25, imposte-differite, IDA, IDP, IRES, IRAP, differenze-temporanee, TUIR-83]
 ---
 

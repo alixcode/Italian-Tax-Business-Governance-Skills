@@ -1,12 +1,13 @@
 ---
-titolo: "OIC 24 — Immobilizzazioni Immateriali"
-area: "03-principi-contabili-oic"
+name: "OIC 24 — Immobilizzazioni Immateriali"
+description: "Immobilizzazioni immateriali e avviamento (OIC 24, art. 2426 nn. 5-6 c.c.): costi di impianto e sviluppo, marchi, brevetti, avviamento, consenso del collegio sindacale e ammortamento fiscale (TUIR art. 103)."
+area: "Principi Contabili OIC"
 fonti:
   - "OIC 24 (versione maggio 2022)"
   - "Art. 2426 c.c. n. 5 — Costi di impianto, ampliamento e sviluppo"
   - "Art. 2426 c.c. n. 6 — Avviamento"
   - "TUIR art. 103 — Ammortamento dei beni immateriali"
-aggiornato: "2022-05"
+aggiornamento: "2022-05"
 tags: [oic24, immobilizzazioni-immateriali, avviamento, brevetti, marchi, sviluppo, TUIR-103, IAS38]
 ---
 

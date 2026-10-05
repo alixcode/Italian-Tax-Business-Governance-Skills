@@ -1,12 +1,13 @@
 ---
-titolo: "OIC 11 — Postulati del Bilancio d'Esercizio"
-area: "03-principi-contabili-oic"
+name: "OIC 11 — Postulati del Bilancio d'Esercizio"
+description: "Finalità e postulati del bilancio d'esercizio secondo OIC 11 e artt. 2423-2423-bis c.c. (prudenza, continuità, rilevanza, comparabilità, competenza, sostanza); deroghe e confronto con IAS 1."
+area: "Principi Contabili OIC"
 fonti:
   - "OIC 11 (versione marzo 2024)"
   - "Art. 2423 c.c. — Redazione del bilancio"
   - "Art. 2423-bis c.c. — Principi di redazione del bilancio"
   - "Art. 2423-ter c.c. — Struttura dello stato patrimoniale e del conto economico"
-aggiornato: "2024-03"
+aggiornamento: "2024-03"
 tags: [oic11, postulati, bilancio, prudenza, competenza, going-concern, materialità]
 ---
 

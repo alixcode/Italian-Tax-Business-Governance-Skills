@@ -1,11 +1,12 @@
 ---
-titolo: "OIC 15 — Crediti"
-area: "03-principi-contabili-oic"
+name: "OIC 15 — Crediti"
+description: "Iscrizione, classificazione e valutazione dei crediti (OIC 15, art. 2426 n. 8 c.c.): costo ammortizzato, fondo svalutazione, cessione dei crediti, deducibilità delle perdite su crediti (TUIR art. 101)."
+area: "Principi Contabili OIC"
 fonti:
   - "OIC 15 (versione marzo 2024)"
   - "Art. 2426 c.c. n. 8 — Criteri di valutazione dei crediti"
   - "TUIR art. 101 — Perdite di beni relativi all'impresa, perdite su crediti"
-aggiornato: "2024-03"
+aggiornamento: "2024-03"
 tags: [oic15, crediti, costo-ammortizzato, EIR, svalutazione, cessione-crediti, TUIR-101, perdite-crediti]
 ---
 

@@ -1,12 +1,13 @@
 ---
-titolo: "OIC 13 — Rimanenze di Magazzino"
-area: "03-principi-contabili-oic"
+name: "OIC 13 — Rimanenze di Magazzino"
+description: "Rilevazione e valutazione delle rimanenze di magazzino (OIC 13, art. 2426 nn. 9-10 c.c.): costo, metodi FIFO/LIFO/costo medio, valore di realizzo, lavori in corso e divergenze con TUIR artt. 92-93."
+area: "Principi Contabili OIC"
 fonti:
   - "OIC 13 (versione marzo 2024)"
   - "Art. 2426 c.c. nn. 9-10 — Criteri di valutazione"
   - "TUIR art. 92 — Variazioni delle rimanenze"
   - "TUIR art. 93 — Opere, forniture e servizi di durata ultrannuale"
-aggiornato: "2024-03"
+aggiornamento: "2024-03"
 tags: [oic13, rimanenze, magazzino, fifo, lifo, costo-medio, valutazione, TUIR-92]
 ---
 

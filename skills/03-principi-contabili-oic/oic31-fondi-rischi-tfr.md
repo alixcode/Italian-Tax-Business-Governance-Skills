@@ -1,13 +1,14 @@
 ---
-titolo: "OIC 31 — Fondi per Rischi e Oneri e Trattamento di Fine Rapporto"
-area: "03-principi-contabili-oic"
+name: "OIC 31 — Fondi per Rischi e Oneri e Trattamento di Fine Rapporto"
+description: "Fondi per rischi e oneri e trattamento di fine rapporto (OIC 31, artt. 2424-bis e 2120 c.c.): condizioni di iscrizione, stima, utilizzo, passività potenziali, TFR e deducibilità fiscale (TUIR artt. 105, 107)."
+area: "Principi Contabili OIC"
 fonti:
   - "OIC 31 (versione marzo 2024)"
   - "Art. 2424-bis c.c. — Disposizioni relative a singole voci dello stato patrimoniale"
   - "Art. 2120 c.c. — Trattamento di Fine Rapporto"
   - "TUIR art. 70 — Fondi per rischi e oneri"
   - "TUIR art. 105 — Deducibilità del Trattamento di Fine Rapporto"
-aggiornato: "2024-03"
+aggiornamento: "2024-03"
 tags: [oic31, fondi-rischi, TFR, trattamento-fine-rapporto, accantonamenti, TUIR-70, TUIR-105, IAS19]
 ---
 

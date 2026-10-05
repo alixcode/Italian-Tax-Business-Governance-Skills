@@ -1,6 +1,7 @@
 ---
-titolo: "OIC 16 — Immobilizzazioni Materiali"
-area: "03-principi-contabili-oic"
+name: "OIC 16 — Immobilizzazioni Materiali"
+description: "Immobilizzazioni materiali (OIC 16, art. 2426 nn. 1-3 c.c.): iscrizione iniziale, ammortamento, rivalutazioni, impairment (OIC 9), manutenzioni, leasing con metodo patrimoniale e ammortamento fiscale (TUIR art. 102)."
+area: "Principi Contabili OIC"
 fonti:
   - "OIC 16 (versione marzo 2024)"
   - "Art. 2426 c.c. nn. 1-3 — Criteri di valutazione delle immobilizzazioni"
@@ -8,7 +9,7 @@ fonti:
   - "TUIR art. 102 — Ammortamento dei beni materiali"
   - "TUIR art. 104 — Ammortamento finanziario dei beni gratuitamente devolvibili"
   - "DM 31/12/1988 — Coefficienti di ammortamento fiscale"
-aggiornato: "2024-03"
+aggiornamento: "2024-03"
 tags: [oic16, immobilizzazioni-materiali, ammortamento, impairment, leasing, TUIR-102, coefficienti-fiscali]
 ---
 
