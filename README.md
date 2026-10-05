@@ -83,6 +83,14 @@ Ogni file di skill contiene:
 
 Ogni cartella di area contiene un `README.md` con l'elenco delle skills, i casi d'uso e le fonti di riferimento dell'area.
 
+
+## Come usare le skills su altre piattaforme
+
+Le skill sono pensate per essere portabili e riutilizzabili anche su piattaforme diverse, mantenendo invariata la logica di fondo: fornire all’AI un metodo operativo strutturato, replicabile e controllabile. Una volta scaricata la cartella della skill dal repository, è possibile importarla direttamente nell’ambiente utilizzato. Ad esempio:
+- su ChatGPT: Plugin > Skill > Carica skill; 
+- su Mistral Vibe: Context > Skills > Carica skill; 
+- su Perplexity: Computer > Skills > Carica skill. 
+In questo modo la stessa base di istruzioni, controlli e procedure può essere utilizzata su più modelli e strumenti, lasciando al professionista la possibilità di scegliere la piattaforma più adatta al proprio flusso di lavoro.
 ---
 
 ## Fonti principali
