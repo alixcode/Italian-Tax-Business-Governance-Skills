@@ -1,7 +1,7 @@
 ---
-name: IVA — Detrazione e Pro-rata
-description: Diritto alla detrazione IVA, calcolo del pro-rata generale per i soggetti che effettuano operazioni esenti, rettifica della detrazione sui beni ammortizzabili e separazione delle attività. Raccordo tra DPR 633/1972 e nuovo TU IVA (D.Lgs. 10/2026).
-area: IVA
+name: "IVA — Detrazione e Pro-rata"
+description: "Diritto alla detrazione IVA, calcolo del pro-rata generale per i soggetti che effettuano operazioni esenti, rettifica della detrazione sui beni ammortizzabili e separazione delle attività. Raccordo tra DPR 633/1972 e nuovo TU IVA (D.Lgs. 10/2026)."
+area: "IVA"
 fonti:
   - "DPR 26 ottobre 1972, n. 633, artt. 19, 19-bis, 19-bis1, 19-bis2, 36 (vigente fino al 31/12/2026)"
   - "D.Lgs. 19 gennaio 2026, n. 10 — Testo unico IVA, artt. 56 ss. (efficace dal 1/1/2027)"

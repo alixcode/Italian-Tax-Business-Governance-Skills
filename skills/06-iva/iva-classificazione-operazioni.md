@@ -1,9 +1,9 @@
 ---
 name: IVA — Classificazione delle Operazioni
-description: Classificazione delle operazioni ai fini IVA in imponibili, non imponibili, esenti, fuori campo. Riferimento al TU IVA (D.Lgs. 10 gennaio 2026) e DPR 633/1972.
+description: Classificazione delle operazioni ai fini IVA in imponibili, non imponibili, esenti, fuori campo. Riferimento al TU IVA (D.Lgs. 19 gennaio 2026, n. 10) e DPR 633/1972.
 area: IVA
 fonti:
-  - "TU IVA — D.Lgs. 10 gennaio 2026 (consolidato DPR 633/1972)"
+  - "TU IVA — D.Lgs. 19 gennaio 2026, n. 10 (consolidato DPR 633/1972)"
   - "DPR 26 ottobre 1972, n. 633 (riferimento storico)"
   - "D.L. 331/1993 (operazioni intracomunitarie)"
 conflitti_noti: "Il TU IVA D.Lgs. 2026 consolida il DPR 633/1972 con le successive modifiche — in caso di discordanza su testo specifico, fare riferimento al TU IVA 2026 come fonte più recente e aggiornata."

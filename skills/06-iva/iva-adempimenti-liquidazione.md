@@ -3,7 +3,7 @@ name: IVA — Adempimenti e Liquidazione Periodica
 description: Registri IVA, liquidazioni mensili e trimestrali, dichiarazione annuale, fatturazione elettronica, esterometro. Adempimenti periodici e scadenze.
 area: IVA
 fonti:
-  - "TU IVA — D.Lgs. 10 gennaio 2026, artt. 23, 25, 27, 28"
+  - "DPR 633/1972, artt. 23, 25, 27, 28 (vigente fino al 31/12/2026); TU IVA — D.Lgs. 19 gennaio 2026, n. 10 (efficace dal 1/1/2027)"
   - "DPR 22 luglio 1998, n. 322 (dichiarazione annuale IVA)"
   - "DPR 23 marzo 1998, n. 100 (liquidazioni periodiche)"
   - "DPR 14 ottobre 1999, n. 542 (opzione trimestrale e maggiorazione interessi)"
