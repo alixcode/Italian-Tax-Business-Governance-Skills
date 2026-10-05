@@ -1,7 +1,7 @@
 ---
-name: Conferimenti d'Azienda e di Partecipazioni
-description: Disciplina civilistica (stima dei conferimenti in natura), contabile e fiscale (neutralità art. 176, realizzo controllato art. 177 TUIR) dei conferimenti di azienda, ramo d'azienda e partecipazioni.
-area: Operazioni Straordinarie
+name: "Conferimenti d'Azienda e di Partecipazioni"
+description: "Disciplina civilistica (stima dei conferimenti in natura), contabile e fiscale (neutralità art. 176, realizzo controllato art. 177 TUIR) dei conferimenti di azienda, ramo d'azienda e partecipazioni."
+area: "Operazioni Straordinarie"
 fonti:
   - "Codice Civile artt. 2342, 2343, 2343-bis, 2343-ter, 2343-quater (SpA), 2464, 2465 (SRL) — agg. novembre 2024"
   - "TUIR — DPR 917/1986, artt. 9, 176, 177 (aggiornamento 2026); art. 175 abrogato dalla L. 244/2007"

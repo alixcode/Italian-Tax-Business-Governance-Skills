@@ -1,7 +1,7 @@
 ---
-name: Cessione d'Azienda
-description: Cessione e affitto d'azienda o di ramo d'azienda: disciplina civilistica (artt. 2555-2562 c.c.), tutela dei lavoratori, responsabilità per debiti anche tributari, tassazione della plusvalenza, imposta di registro e contabilizzazione.
-area: Operazioni Straordinarie
+name: "Cessione d'Azienda"
+description: "Cessione e affitto d'azienda o di ramo d'azienda: disciplina civilistica (artt. 2555-2562 c.c.), tutela dei lavoratori, responsabilità per debiti anche tributari, tassazione della plusvalenza, imposta di registro e contabilizzazione."
+area: "Operazioni Straordinarie"
 fonti:
   - "Codice Civile artt. 2112, 2555-2562 (agg. novembre 2024)"
   - "TUIR — DPR 917/1986, artt. 17, 58, 86, 103 (aggiornamento 2026)"

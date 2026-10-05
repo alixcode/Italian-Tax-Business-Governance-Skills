@@ -1,7 +1,7 @@
 ---
-name: Trasformazione Societaria
-description: Trasformazione omogenea (progressiva e regressiva) ed eterogenea ex artt. 2498-2500-novies c.c.; relazione di stima, opposizione dei creditori, effetti fiscali (artt. 170-171 TUIR) e frazionamento del periodo d'imposta.
-area: Operazioni Straordinarie
+name: "Trasformazione Societaria"
+description: "Trasformazione omogenea (progressiva e regressiva) ed eterogenea ex artt. 2498-2500-novies c.c.; relazione di stima, opposizione dei creditori, effetti fiscali (artt. 170-171 TUIR) e frazionamento del periodo d'imposta."
+area: "Operazioni Straordinarie"
 fonti:
   - "Codice Civile artt. 2498-2500-novies (agg. novembre 2024)"
   - "Codice Civile art. 2465 — Stima dei conferimenti SRL; art. 2343 — Stima SpA"
