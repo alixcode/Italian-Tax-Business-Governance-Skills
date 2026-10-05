@@ -1,4 +1,4 @@
-# Skill Dottore Commercialista — Repository Skills per la Gestione Contabile, Fiscale e Societaria delle Imprese Italiane
+# Skill Dottore Commercialista: Repository Skills per la Gestione Contabile, Fiscale e Societaria delle Imprese Italiane
 
 Repository di skills professionali per Claude Code, progettato per supportare dottori commercialisti, responsabili amministrativi e CFO nella gestione delle imprese italiane. Le skills sono strutturate per coprire l'intero ciclo di vita contabile, fiscale e societario, con riferimento costante alle normative vigenti.
 
